@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 # =========================
 # CONFIG
 # =========================
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "AIzaSyDPYinjx7l7brS5GGkQBEbFgNIHqz-gRps"
 
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 YOUTUBE_VIDEO_URL = "https://www.googleapis.com/youtube/v3/videos"
