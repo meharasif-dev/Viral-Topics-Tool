@@ -17,7 +17,14 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 # List of broader keywords
 keywords = [
     
-    "EmotionalPodcast",
+    "deep conversation podcast",
+    "raw emotional interview",
+    "life philosophy conversation",
+    "underrated podcast discussion",
+    "creative mindset talk",
+    "unknown interview podcast",
+    "personal growth story",
+    "thought provoking long-form",
 ]
 
 # Fetch Data Button
