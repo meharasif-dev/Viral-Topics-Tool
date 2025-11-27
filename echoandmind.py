@@ -19,8 +19,21 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # Your broader keywords (short version for testing)
 keywords = [
-    "Life Meaning",
-    "Purpose And Mindset Advice"
+    # Introspective / human
+    "deep conversation podcast",
+    "raw emotional conversation",
+
+    # Philosophical / spiritual
+    "life philosophy discussion",
+    "thought provoking long-form",
+
+    # Mindset / creativity / growth
+    "creative process interview",
+    "mindset transformation talk",
+
+    # Hidden gems / small podcasts
+    "underrated podcast discussion",
+    "unknown interview podcast"
 ]
 
 max_results_per_keyword = st.slider("Max results per keyword", 1, 10, 5)
