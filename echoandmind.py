@@ -24,7 +24,7 @@ keywords = [
     "creative mindset talk",
     "unknown interview podcast",
     "personal growth story",
-    "thought provoking long-form",
+    "thought provoking long-form"
 ]
 
 # Fetch Data Button
