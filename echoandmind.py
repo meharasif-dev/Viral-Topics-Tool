@@ -17,14 +17,24 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 # List of broader keywords
 keywords = [
     
-    "deep conversation podcast",
-    "raw emotional interview",
-    "life philosophy conversation",
-    "underrated podcast discussion",
-    "creative mindset talk",
-    "unknown interview podcast",
-    "personal growth story",
-    "thought provoking long-form"
+    "Motivational Podcast Clips", "Podcast Wisdom", "Deep Life Advice",
+    "Life Philosophy Clips", "Introspective Podcast Moments",
+    "Theo Von Motivation", "Matthew McConaughey Wisdom", "Rick Rubin Philosophy",
+    "Lex Fridman Motivation", "Joe Rogan Life Lesson", "Compelling Human Stories",
+    "Emotional Podcast Clip", "Raw Human Moments", "Underrated Podcast Wisdom",
+    "Life Changing Advice Clip", "Podcast Motivation Short",
+    "Spiritual Growth Clip", "Self Improvement Podcast", "Mindset Upgrade",
+    "Modern Life Reflections", "Powerful Motivational Clips",
+    "Authentic Life Advice", "Interview Motivation", "Rare Podcast Moments",
+    "Short Inspirational Clips", "Life Perspective Shift",
+    "Motivational Philosophy", "Mental Strength Clips",
+    "Human Experience Insight", "Deep Conversation Highlights",
+    "Motivational Conversation Clips", "High Value Podcast Clip",
+    "True Life Motivation", "Personal Growth Podcasts",
+    "Real Talk Motivation", "Underused Podcast Gems",
+    "Unclipped Podcast Moments", "Life Meaning Clips",
+    "Purpose And Mindset Advice"
+
 ]
 
 # Fetch Data Button
