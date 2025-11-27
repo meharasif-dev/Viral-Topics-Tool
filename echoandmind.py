@@ -17,23 +17,21 @@ st.title("YouTube Viral Topics Tool")
 
 days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30, value=5)
 
-# Your broader keywords (short version for testing)
+# Your broader keywords
 keywords = [
-    # Introspective / human
-    "deep conversation podcast",
-    "raw emotional conversation",
 
-    # Philosophical / spiritual
-    "life philosophy discussion",
-    "thought provoking long-form",
-
-    # Mindset / creativity / growth
-    "creative process interview",
-    "mindset transformation talk",
-
-    # Hidden gems / small podcasts
-    "underrated podcast discussion",
-    "unknown interview podcast"
+    "motivational podcast clip",
+    "deep conversation moments",
+    "introspective podcast highlights",
+    "emotional podcast short",
+    "philosophical podcast clip",
+    "life advice podcast moment",
+    "rare podcast wisdom",
+    "underrated inspirational podcast",
+    "powerful interview moment",
+    "joe rogan life advice",
+    "theo von emotional story",
+    "matthew mcconaughey wisdom"
 ]
 
 max_results_per_keyword = st.slider("Max results per keyword", 1, 10, 5)
